@@ -1,0 +1,5 @@
+﻿{
+	"_comentario":"Tanto en environment como en rootSettingsPath se pueden usar variables de ambiente de la siguiente forma %nombre_variable%",
+	"environment":"dev",
+	"rootSettingsPath":"C:/Users/martina.svedas/Documents/UIPATH_FWK-COT/RobotBase/Data"
+}

@@ -1,0 +1,11 @@
+[
+	{"comment":"FWK configurations"},
+	{"key":"DelayProcess","value":"1000","description":"Delay in milliseconds to check if the Process Transaction is not hang"},
+	
+	{"key":"TimeoutLittle","value":"1000","description":"TimeoutLittle in miliseconds"}, 
+	{"key":"TimeoutShort","value":"2500","description":"TimeoutShort in miliseconds"}, 
+	{"key":"TimeoutMedium","value":"5000","description":"TimeoutMedium in miliseconds"}, 
+	{"key":"TimeoutLong","value":"10000","description":"TimeoutLong in miliseconds"} ,
+	
+	{"comment":"Process configurations"}
+]
